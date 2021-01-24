@@ -1,6 +1,8 @@
 # Capture the flag contest (COMP90054 - AI Planning for Autonomy)
 The course contest involves a multi-player capture-the-flag variant of Pacman, where agents control both Pacman and ghosts in coordinated team-based strategies.
 
+Complete solution documentation: [https://abhinavcreed13.github.io/projects/ai-team-pacamon](https://abhinavcreed13.github.io/projects/ai-team-pacamon)
+
 ## Task
 
 This is a **group project** of 3 or 4 members. 
@@ -35,6 +37,3 @@ Together with your actual code solution, you will need to develop a **Wiki**, do
   * [Evolution and Experiments](https://abhinavcreed13.github.io/projects/ai-team-pacamon/#evolution-and-experiments)
 - [Conclusions and Reflections](https://abhinavcreed13.github.io/projects/ai-team-pacamon/#conclusions-and-reflections)
 - [Youtube Presentation](https://abhinavcreed13.github.io/projects/ai-team-pacamon/#youtube-presentation)
-
-Complete documentation: [https://abhinavcreed13.github.io/projects/ai-team-pacamon](https://abhinavcreed13.github.io/projects/ai-team-pacamon)
- 
